@@ -2,8 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectwahid</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.3.6</version>
-
+  <version>0.3.7</version>
 <distributionManagement>
 	    <repository>
 	      <id>github</id>
@@ -11,7 +10,6 @@
 	      <url>https://maven.pkg.github.com/akhmadwhd/Basic-Java-Maven_2</url>
 	    </repository>
   </distributionManagement>
-	
 <dependencies>
   <dependency>
     <groupId>junit</groupId>
@@ -19,7 +17,6 @@
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
 </dependencies>
-  
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
